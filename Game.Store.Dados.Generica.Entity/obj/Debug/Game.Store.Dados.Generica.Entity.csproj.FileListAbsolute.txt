@@ -1,0 +1,12 @@
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\bin\Debug\Game.Store.Dados.Generica.Entity.dll.config
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\bin\Debug\Game.Store.Dados.Generica.Entity.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\bin\Debug\Game.Store.Dados.Generica.Entity.pdb
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\obj\Debug\Game.Store.Dados.Generica.Entity.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\obj\Debug\Game.Store.Dados.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\obj\Debug\Game.Store.Dados.Generica.Entity.csproj.CopyComplete
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\obj\Debug\Game.Store.Dados.Generica.Entity.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dados.Generica.Entity\obj\Debug\Game.Store.Dados.Generica.Entity.pdb

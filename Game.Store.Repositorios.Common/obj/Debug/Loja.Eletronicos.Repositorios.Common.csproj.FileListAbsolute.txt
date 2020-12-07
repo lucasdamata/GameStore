@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Repositorios.Common\bin\Debug\Game.Store.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Repositorios.Common\bin\Debug\Game.Store.Repositorios.Common.pdb
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Repositorios.Common\obj\Debug\Game.Store.Repositorios.Common.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Repositorios.Common\obj\Debug\Game.Store.Repositorios.Common.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Repositorios.Common\obj\Debug\Game.Store.Repositorios.Common.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Repositorios.Common\obj\Debug\Game.Store.Repositorios.Common.pdb

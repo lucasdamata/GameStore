@@ -1,0 +1,2 @@
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Web\obj\Debug\Game.Store.Web.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Web\obj\Debug\Game.Store.Web.csproj.CoreCompileInputs.cache

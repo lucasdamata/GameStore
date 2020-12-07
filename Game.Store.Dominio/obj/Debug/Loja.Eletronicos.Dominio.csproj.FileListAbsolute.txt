@@ -1,0 +1,6 @@
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dominio\bin\Debug\Game.Store.Dominio.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dominio\bin\Debug\Game.Store.Dominio.pdb
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dominio\obj\Debug\Game.Store.Dominio.csprojAssemblyReference.cache
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dominio\obj\Debug\Game.Store.Dominio.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dominio\obj\Debug\Game.Store.Dominio.dll
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Dominio\obj\Debug\Game.Store.Dominio.pdb

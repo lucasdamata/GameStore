@@ -1,0 +1,1 @@
+C:\dev\faculdade\mislene\Game.Store\Game.Store.Repositorios.Common.Entity\obj\Debug\Game.Store.Repositorios.Common.Entity.csproj.CoreCompileInputs.cache
